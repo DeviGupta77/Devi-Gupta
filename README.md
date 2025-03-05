@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact **I once wrote “Hello, World!” and felt like a hacker.**
 
+- <h3>About Me</h3>
+<p>I am a web developer </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/devi_baniya77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devi_baniya77" height="30" width="40" /></a>
