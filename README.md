@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I once wrote “Hello, World!” and felt like a hacker.**
 
-- <h3>About Me</h3>
+<h3>About Me</h3>
 <p>I am a web developer </p>
 
 <h3 align="left">Connect with me:</h3>
